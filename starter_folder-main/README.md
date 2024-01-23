@@ -2,9 +2,12 @@
 
 ## Overview
 
-This repo provides students with a foundation for their own projects associated with *Telling Stories with Data*. You do not need every aspect for every paper and you should delete aspects that you do not need.
+This repo provides students with a foundation to reproduce the results. 
 
-To use this folder, click the green "Code" button", then "Download ZIP". Move the downloaded folder to where you want to work on your own computer, and then modify it to suit.
+**Statement on LLM usage: Aspects of the code were written with the help of the autocomplete tool, OPENAI chatGPT 3.5. The function used in the plots were written with the help of ChatGPT, I get the recommand from ChatGPT and the entire chat history is available in inputs/llms/usage.txt.**
+
+**In the outputs/paper.qmd, the line 91 need to change the direction so as to find the sketches figure. eg. change the /Users/caacaa/Desktop/2024 winter/sta302/starter_folder-main/inputs/sketches/count.jpg to your own local direction. **
+
 
 ## File Structure
 
