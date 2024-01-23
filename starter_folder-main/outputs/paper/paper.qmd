@@ -1,0 +1,185 @@
+---
+title: "Investigating the Characteristic of Victims of Crimes in Toronto by Police Annual Statistical Report  from 2014 to 2022"
+author: 
+  Chenhang Huang
+thanks: "Code and data are available at: LINK."
+date: today
+date-format: long
+abstract: "The issue of public safety in Toronto is a crucial indicator of residents satisfaction, with the distribution of victims directly reflecting the city safety concerns. This study examines the trend of Victims of Crimes using summary data provided by the Toronto Police from 2014 to 2022. The results reveal a significant upward trend in the number of victims, with notable changes in the distribution of victims around the occurrence of COVID-19. While the government's policies during the 2020 COVID-19 pandemic reduced the number of victims, the post-pandemic rebound in the number of victims necessitates government attention."
+format: pdf
+number-sections: true
+bibliography: references.bib
+---
+
+```{r}
+#| include: false
+#| warning: false
+#| message: false
+
+library(tidyverse)
+```
+
+
+# Introduction
+
+
+Crime rate is a crucial urban safety indicator, and the Toronto Police Service annually releases city crime data. The crime data not only encompasses the types of crimes but also includes information about the victims. However, in accordance with the Municipal Freedom of Information and Protection of Privacy Act, the Toronto Police Service must take necessary measures to protect the privacy of individuals involved in the incidents. Consequently, the disclosed crime cases are often presented in an anonymized manner. Despite this anonymization, the distribution of victims in these crime cases serves to raise awareness among Toronto residents about the need to enhance precautionary measures in their daily lives. In this paper, I will analyze the  Victims of Crimes  data published by the Police Annual Statistical Report  from 2014 to 2022 in order to find the Characteristic and the trend of the Victims of Crimes in Toronto. 
+
+
+@carrington2001population estimates of crime levels in Canada from 2000 to 2041 indicate a correlation between the crime rate and the age structure of the population. As Canada experiences an intensifying aging demographic, it is predicted that all types of crimes will decrease. Furthermore, crimes specific to youth, such as robbery and burglary, are expected to decline at an even faster rate. @besserer2000 investigated the 1999 General Social Survey (GSS) data from Statistics Canada, point out that among Canadians aged 15 and above, at least 25% have been victims of at least one criminal activity. In 1993, this proportion was only 23%, indicating an increase. However, from 1993 to 1999, the rates of crimes such as sexual assault, robbery, assault, and burglary showed no significant changes, while the crime rate involving theft of personal finances exhibited an increasing trend. The investigation by @gaetz2010surviving on victimization among Toronto street youth reveals that their vulnerability stems primarily from homelessness, and the justice and shelter systems lack effective interventions for the lives of street youth.
+
+
+Through the above literature review, we observe a limited amount of research on the characteristics of victims of crimes in the recent context of the Toronto area. Given that Toronto is one of Canada's most densely populated regions, with a significant influx of immigrants each year, a recent study on the characteristics of victims of crimes can aid the municipal government in formulating sensible policies to protect potential victims. This, in turn, can effectively contribute to reducing crime rates in the Toronto area.
+
+
+The remainder of this paper is structured as follows. @sec-data will do the data analysis, and it includes two parts. @sec-data1 introduces the overview of the data, including the data source, the number of variables, and their definition. @sec-data2 focuses on the analysis of the distribution of these variables. @sec-result will discuss the results from @sec-data, and discussion some Characteristics of Victims of Crimes in Toronto in @sec-discussion. 
+
+
+# Data {#sec-data}
+
+
+## Overview of Data  {#sec-data1}
+
+This data is sourced from the Police Annual Statistical Report in the Toronto Open Data database. The Victims of Crimes data is updated annually, with the most recent update occurring on November 28, 2023 @cite-opentoronto. Issued by the Toronto Police Service, this database holds substantial value and ensures high accuracy in the data. While estimating Victims of Crimes through General Social Survey (GSS) data is an option, it may introduce significant errors. Therefore, the data derived from the Toronto Police Annual Statistical Report is irreplaceable for studying victims of crimes in Toronto.
+
+This dataset primarily targets individual victims, comprising 1110 observations and 9 variables initially. During the data cleaning process, we first excluded the observation ID and then disregarded the "Crimes Against the Person" category since all values in the category variable were consistent. Finally, focusing on understanding victim situations across different crime types and excluding the study of assault types, the Assault subtype variable was also discarded. After completing the data cleaning process, we obtained a dataset for analysis, comprising 1110 observations and 6 variables. The definitions of these 6 variables are detailed in Table 1, which is build by kable in knitr package @cite-knitr using @citeR. There are two numerical variables and four categorical variables. 
+
+```{r}
+#| label: table1
+#| echo: false
+#| warning: false
+cleaned_data = read_csv(here::here("outputs/data/analysis_data.csv"))
+variable = names(cleaned_data)
+Description = c("Year crime was reported","Crime category subtype","Sex of identified victim",
+         "Age group of identified victim, adult or youth","Age cohort of identified victim","Count of identified victims")
+knitr::kable(cbind(variable,Description),caption = "Variables Definition")
+
+```
+
+## Data Analysis  {#sec-data2}
+
+The trend of the number of Victims of Crimes are shown in @fig-trend by using the ggplot function @thereferencecanbewhatever. Prior to 2019, there was an upward trend in the number of Victims of Crimes. However, in 2020, there was a significant decrease, plummeting from the peak of 29,000 to 24,500. Subsequently, this figure steadily increased, reaching 28,000 in 2022. The sharp fluctuation in the trend of the number of Victims of Crimes in 2020 can be attributed to the outbreak of the COVID-19 pandemic in Canada.
+
+```{r}
+#| label: fig-trend
+#| fig-cap: Victims of Crimes by years
+#| echo: false
+
+data1 = cleaned_data %>%group_by(REPORT_YEAR)%>% summarize(Count = sum(COUNT_))
+
+ggplot(data1, aes(x = REPORT_YEAR, y = Count)) +
+  geom_line(col = "red",linetype = "dashed") +
+  geom_point()+
+  xlab("Year")+
+  theme_minimal()
+```
+
+
+Figure 2 shows the total victimes by sex from 2014 to 2022, while @fig-sex shows the trend of Victims of Crimes by sex. Upon examining the gender aspect of Victims of Crimes, it was observed that prior to 2019, there were more male victims than female victims, with both genders showing an increasing trend. However, post-2020, the number of male victims decreased compared to female victims, and an upward trend persisted. Victims with unspecified gender constituted only a small fraction.
+
+
+
+```{r}
+#| echo: false
+#| warning: false
+
+library(knitr)
+data21 = cleaned_data %>%group_by(SEX)%>% summarize(Count = sum(COUNT_))
+```
+
+
+![Distribution of the Victims by sex in total.](/Users/caacaa/Desktop/2024 winter/sta302/starter_folder-main/inputs/sketches/count.jpg) 
+
+
+```{r}
+#| label: fig-sex
+#| fig-cap: Victims of Crimes by sex
+#| echo: false
+#| warning: false
+
+data2 = cleaned_data %>%group_by(SEX,REPORT_YEAR)%>% summarize(Count = sum(COUNT_))
+
+ggplot(data2, aes(x = REPORT_YEAR, y = Count)) +
+  geom_line(aes(colour = SEX)) +
+  geom_point(aes(colour = SEX)) +
+  xlab("Year")+
+  theme_minimal() 
+
+
+```
+@fig-type shows the trend of Victims of Crimes by crime category subtypes.In Toronto, the majority of victims are primarily due to assaults, accounting for over three-quarters of the overall victims. The number of assault victims showed an upward trend before 2019, experienced a significant decline in 2020, and continued to rise post-2020. However, the trends for other types of victims varied; for instance, robbery victims reached their peak in 2017 and declined from 2017 to 2021, but in 2022, there was a sharp increase in the number of robbery victims. The number of victims of sexual violation was consistently lower than that of robbery victims before 2019, with an upward trend. However, post-2020, the number of sexual violation victims surpassed that of robbery victims. The analysis of these trends reveals that 2020 served as a turning point, marking drastic changes in both the number and types of victims.
+
+
+```{r}
+#| label: fig-type
+#| fig-cap: Victims of Crimes by Crime category subtype
+#| echo: false
+#| warning: false
+
+data3 = cleaned_data %>%group_by(SUBTYPE,REPORT_YEAR)%>% summarize(Count = sum(COUNT_))
+ggplot(data3, aes(x = REPORT_YEAR, y = Count)) +
+  geom_line(aes(colour = SUBTYPE)) +
+  geom_point(aes(colour = SUBTYPE)) +
+  xlab("Year")+
+  theme_minimal() 
+
+```
+
+
+```{r}
+#| label: fig-age
+#| fig-cap: Victims of Crimes by age group
+#| echo: false
+#| warning: false
+
+data3 = cleaned_data %>%group_by(AGE_GROUP,REPORT_YEAR)%>% summarize(Count = sum(COUNT_))
+ggplot(data3, aes(x = REPORT_YEAR, y = Count)) +
+  geom_line(aes(colour = AGE_GROUP)) +
+  geom_point(aes(colour = AGE_GROUP)) +
+  xlab("Year")+
+  theme_minimal() 
+
+```
+@fig-age shows the trend of Victims of Crimes by crimes' age group. The vast majority of victims are adults; however, it is crucial to acknowledge that there is still a small portion of victims who are youth and children each year. The number of Adult and Youth victims dropped to its lowest point in 2020 and has since been steadily increasing.
+
+
+```{r}
+#| label: fig-age1
+#| fig-cap: Victims of Crimes by age cohort
+#| echo: false
+#| warning: false
+
+data3 = cleaned_data %>%group_by(AGE_COHORT,REPORT_YEAR)%>% summarize(Count = sum(COUNT_))
+ggplot(data3, aes(x = REPORT_YEAR, y = Count)) +
+  geom_line(aes(colour = AGE_COHORT)) +
+  geom_point(aes(colour = AGE_COHORT)) +
+  xlab("Year")+
+  theme_minimal() 
+
+```
+
+Considering that the majority of victims are adults, we further segmented the data by age, yielding the results shown in @fig-age1. Across all age groups, the highest number of victims falls within the 25 to 34 age range, followed by the 18-24 age group. We observe a concentration of victims in the 18-54 age range, where individuals are typically in the working stage and may require more income to sustain their lives. Analyzing trends in different age groups, we find that, pre-2020, the age groups of 18-24 and 65+ experienced the most significant declines in victims. However, post-2020, these two age groups also exhibited the most substantial upward trends. Fortunately, the overall number of child (<12) victims is on a decreasing trend, indicating effective child protection measures in the Toronto area.
+
+
+# Result {#sec-result}
+
+Before 2019, the number of Victims of Crimes in Toronto was on the rise, reaching its peak at 29,000. However, in 2020, a significant drop occurred, falling to 24,500, attributed to the impact of the COVID-19 pandemic. The numbers steadily increased thereafter, reaching 28,000 in 2022. Examining gender distribution, males outnumbered females before 2019, both showing an upward trend. Post-2020, the trend shifted, with males becoming fewer than females, yet both genders displayed an upward trajectory. Assaults constituted over 75% of overall victims, and while assault victim numbers showed a pre-2019 upward trend, a sharp drop occurred in 2020, followed by a continuous rise. Trends in other victim categories varied; for instance, robbery victims peaked in 2017, declined from 2017 to 2021, and sharply increased in 2022. Sexual violation victims, traditionally fewer than robbery victims before 2019, showed an upward trend. Post-2020, sexual violation victims surpassed robbery victims. The majority of victims were adults, concentrated in the 18-54 age range, indicative of the working population. Analyzing age-specific trends, the 18-24 and 65+ age groups experienced the most significant pre-2020 declines, but post-2020, they exhibited the most substantial increases. Child (<12) victims displayed an overall decreasing trend, suggesting effective child protection measures in Toronto. In summary, 2020 marked a turning point with drastic changes in victim numbers and types, which may be influenced by the COVID-19 pandemic.
+
+# Discussion {#sec-discussion}
+
+Based on the data analysis, we observe an overall upward trend in Victims of Crimes in Toronto from 2014 to 2022, indicating potential declining security in the region. It becomes evident that government policies have a substantial impact on crime rates. For instance, during the COVID-19 period, strict isolation measures led to a noticeable decrease in Victims of Crimes, and as these measures relaxed, the numbers began to rise. Furthermore, there are distinct age-related characteristics among victims, with adults aged 18-54 being particularly susceptible. Individuals in this age range, often engaged in work and frequent interactions with strangers, face an increased risk of becoming Victims of Crimes. It is crucial to recognize the post-2020 shift in the distribution of Victims of Crimes, prompting the Toronto government to make timely policy adjustments to curb crime.
+
+
+\newpage
+
+
+# References
+```{r}
+#| echo: false
+#| warning: false
+#| include: false
+cm = citation("opendatatoronto")
+print(cm, bibtex = TRUE) 
+```
+
+

@@ -1,0 +1,1111 @@
+REPORT_YEAR,SUBTYPE,SEX,AGE_GROUP,AGE_COHORT,COUNT_
+2014,Sexual Violation,M,Adult,18 to 24,23
+2014,Sexual Violation,M,Adult,25 to 34,29
+2014,Sexual Violation,M,Adult,35 to 44,9
+2014,Sexual Violation,M,Adult,45 to 54,13
+2014,Sexual Violation,M,Adult,55 to 64,7
+2014,Sexual Violation,M,Adult,65+,2
+2014,Sexual Violation,M,Child,<12,106
+2014,Sexual Violation,M,Unknown,Unknown,4
+2014,Sexual Violation,M,Youth,12 to 17,70
+2015,Assault,F,Unknown,Unknown,1
+2015,Assault,F,Adult,25 to 34,4
+2015,Assault,F,Adult,35 to 44,7
+2015,Assault,F,Adult,45 to 54,2
+2015,Assault,F,Adult,65+,2
+2015,Assault,F,Unknown,Unknown,74
+2015,Assault,M,Adult,18 to 24,1
+2015,Assault,M,Adult,25 to 34,26
+2015,Assault,M,Adult,35 to 44,25
+2015,Assault,M,Adult,45 to 54,10
+2015,Assault,M,Adult,55 to 64,3
+2015,Assault,M,Adult,65+,5
+2015,Assault,M,Unknown,Unknown,325
+2015,Assault,U,Unknown,Unknown,1
+2015,Assault,F,Adult,25 to 34,1
+2015,Assault,F,Unknown,Unknown,4
+2015,Assault,M,Adult,18 to 24,1
+2015,Assault,M,Adult,35 to 44,1
+2015,Assault,M,Adult,45 to 54,2
+2015,Assault,M,Adult,55 to 64,1
+2015,Assault,M,Unknown,Unknown,21
+2015,Assault,F,Adult,18 to 24,10
+2015,Assault,F,Adult,25 to 34,16
+2015,Assault,F,Adult,35 to 44,4
+2015,Assault,F,Adult,45 to 54,3
+2015,Assault,F,Adult,55 to 64,2
+2015,Assault,F,Adult,65+,1
+2015,Assault,F,Unknown,Unknown,7
+2015,Assault,M,Adult,18 to 24,34
+2015,Assault,M,Adult,25 to 34,84
+2015,Assault,M,Adult,35 to 44,31
+2015,Assault,M,Adult,45 to 54,19
+2015,Assault,M,Adult,55 to 64,3
+2015,Assault,M,Adult,65+,3
+2015,Assault,M,Unknown,Unknown,86
+2015,Assault,F,Adult,18 to 24,1458
+2015,Assault,F,Adult,25 to 34,2042
+2015,Assault,F,Adult,35 to 44,1270
+2015,Assault,F,Adult,45 to 54,975
+2015,Assault,F,Adult,55 to 64,438
+2015,Assault,F,Adult,65+,305
+2015,Robbery,M,Child,<12,16
+2015,Robbery,M,Unknown,Unknown,29
+2015,Robbery,M,Youth,12 to 17,615
+2015,Robbery,U,Adult,18 to 24,1
+2015,Sexual Violation,F,Adult,18 to 24,473
+2015,Sexual Violation,F,Adult,25 to 34,363
+2015,Sexual Violation,F,Adult,35 to 44,180
+2015,Sexual Violation,F,Adult,45 to 54,113
+2015,Sexual Violation,F,Adult,55 to 64,35
+2015,Sexual Violation,F,Adult,65+,33
+2015,Sexual Violation,F,Child,<12,234
+2015,Sexual Violation,F,Unknown,Unknown,22
+2015,Sexual Violation,F,Youth,12 to 17,410
+2015,Sexual Violation,M,Adult,18 to 24,41
+2015,Sexual Violation,M,Adult,25 to 34,31
+2015,Sexual Violation,M,Adult,35 to 44,15
+2015,Sexual Violation,M,Adult,45 to 54,14
+2015,Sexual Violation,M,Adult,55 to 64,4
+2015,Sexual Violation,M,Adult,65+,9
+2015,Sexual Violation,M,Child,<12,100
+2015,Sexual Violation,M,Unknown,Unknown,22
+2015,Sexual Violation,M,Youth,12 to 17,70
+2016,Assault,M,Unknown,Unknown,1
+2016,Assault,F,Adult,18 to 24,3
+2016,Assault,F,Adult,25 to 34,14
+2016,Assault,F,Adult,35 to 44,5
+2016,Assault,F,Adult,45 to 54,6
+2016,Assault,F,Unknown,Unknown,74
+2016,Assault,M,Adult,18 to 24,3
+2016,Assault,M,Adult,25 to 34,33
+2016,Assault,M,Adult,35 to 44,26
+2016,Assault,M,Adult,45 to 54,13
+2016,Assault,M,Adult,55 to 64,5
+2016,Assault,M,Adult,65+,1
+2016,Assault,M,Unknown,Unknown,276
+2016,Assault,F,Adult,35 to 44,2
+2016,Assault,F,Adult,45 to 54,1
+2016,Assault,F,Unknown,Unknown,13
+2016,Assault,M,Adult,25 to 34,1
+2016,Assault,M,Adult,45 to 54,5
+2016,Assault,M,Unknown,Unknown,26
+2016,Assault,F,Adult,18 to 24,11
+2016,Assault,F,Adult,25 to 34,13
+2016,Assault,F,Adult,35 to 44,11
+2016,Assault,F,Adult,45 to 54,2
+2016,Assault,F,Adult,55 to 64,1
+2016,Assault,F,Adult,65+,1
+2016,Assault,F,Unknown,Unknown,9
+2016,Assault,M,Adult,18 to 24,49
+2016,Assault,M,Adult,25 to 34,79
+2014,Assault,M,Adult,25 to 34,2
+2014,Assault,M,Adult,55 to 64,1
+2014,Assault,F,Adult,18 to 24,1
+2014,Assault,F,Adult,25 to 34,5
+2014,Assault,F,Adult,35 to 44,3
+2014,Assault,F,Adult,45 to 54,1
+2014,Assault,F,Adult,55 to 64,1
+2014,Assault,F,Unknown,Unknown,55
+2014,Assault,M,Adult,18 to 24,2
+2014,Assault,M,Adult,25 to 34,21
+2014,Assault,M,Adult,35 to 44,19
+2014,Assault,M,Adult,45 to 54,14
+2014,Assault,M,Adult,55 to 64,1
+2014,Assault,M,Unknown,Unknown,281
+2014,Assault,F,Adult,25 to 34,1
+2014,Assault,F,Adult,35 to 44,1
+2014,Assault,F,Unknown,Unknown,3
+2014,Assault,M,Adult,25 to 34,4
+2014,Assault,M,Adult,35 to 44,2
+2014,Assault,M,Adult,45 to 54,1
+2014,Assault,M,Unknown,Unknown,23
+2014,Assault,F,Adult,18 to 24,1
+2014,Assault,F,Adult,25 to 34,22
+2014,Assault,F,Adult,35 to 44,4
+2014,Assault,F,Adult,45 to 54,1
+2014,Assault,F,Unknown,Unknown,13
+2014,Assault,M,Adult,18 to 24,33
+2014,Assault,M,Adult,25 to 34,84
+2014,Assault,M,Adult,35 to 44,35
+2014,Assault,M,Adult,45 to 54,14
+2014,Assault,M,Adult,55 to 64,5
+2014,Assault,M,Adult,65+,1
+2014,Assault,M,Unknown,Unknown,86
+2014,Assault,F,Adult,18 to 24,1464
+2014,Assault,F,Adult,25 to 34,1905
+2014,Assault,F,Adult,35 to 44,1276
+2014,Assault,F,Adult,45 to 54,921
+2014,Assault,F,Adult,55 to 64,388
+2014,Assault,F,Adult,65+,287
+2014,Assault,F,Child,<12,325
+2014,Assault,F,Unknown,Unknown,94
+2014,Assault,F,Youth,12 to 17,525
+2014,Assault,M,Adult,18 to 24,1057
+2014,Assault,M,Adult,25 to 34,1667
+2014,Assault,M,Adult,35 to 44,1141
+2014,Assault,M,Adult,45 to 54,1183
+2014,Assault,M,Adult,55 to 64,611
+2014,Assault,M,Adult,65+,285
+2014,Assault,M,Child,<12,506
+2014,Assault,M,Unknown,Unknown,213
+2014,Assault,M,Youth,12 to 17,559
+2014,Other,F,Adult,18 to 24,474
+2014,Other,F,Adult,25 to 34,689
+2014,Other,F,Adult,35 to 44,497
+2014,Other,F,Adult,45 to 54,398
+2014,Other,F,Adult,55 to 64,194
+2014,Other,F,Adult,65+,83
+2014,Other,F,Child,<12,68
+2014,Other,F,Unknown,Unknown,83
+2014,Other,F,Youth,12 to 17,215
+2014,Other,M,Adult,18 to 24,219
+2014,Other,M,Adult,25 to 34,412
+2014,Other,M,Adult,35 to 44,378
+2014,Other,M,Adult,45 to 54,356
+2014,Other,M,Adult,55 to 64,197
+2014,Other,M,Adult,65+,95
+2014,Other,M,Child,<12,75
+2014,Other,M,Unknown,Unknown,117
+2014,Other,M,Youth,12 to 17,164
+2014,Other,U,Unknown,Unknown,3
+2014,Robbery,F,Adult,18 to 24,244
+2014,Robbery,F,Adult,25 to 34,195
+2014,Robbery,F,Adult,35 to 44,120
+2014,Robbery,F,Adult,45 to 54,138
+2014,Robbery,F,Adult,55 to 64,70
+2014,Robbery,F,Adult,65+,61
+2014,Robbery,F,Child,<12,6
+2014,Robbery,F,Unknown,Unknown,16
+2014,Robbery,F,Youth,12 to 17,70
+2014,Robbery,M,Adult,18 to 24,675
+2014,Robbery,M,Adult,25 to 34,422
+2014,Robbery,M,Adult,35 to 44,224
+2014,Robbery,M,Adult,45 to 54,215
+2014,Robbery,M,Adult,55 to 64,113
+2014,Robbery,M,Adult,65+,86
+2014,Robbery,M,Child,<12,29
+2014,Robbery,M,Unknown,Unknown,29
+2014,Robbery,M,Youth,12 to 17,659
+2014,Robbery,U,Adult,25 to 34,2
+2014,Robbery,U,Adult,55 to 64,1
+2014,Robbery,U,Unknown,Unknown,1
+2014,Sexual Violation,F,Adult,18 to 24,477
+2014,Sexual Violation,F,Adult,25 to 34,357
+2014,Sexual Violation,F,Adult,35 to 44,154
+2014,Sexual Violation,F,Adult,45 to 54,103
+2014,Sexual Violation,F,Adult,55 to 64,42
+2014,Sexual Violation,F,Adult,65+,34
+2014,Sexual Violation,F,Child,<12,243
+2014,Sexual Violation,F,Unknown,Unknown,23
+2014,Sexual Violation,F,Youth,12 to 17,400
+2016,Assault,M,Adult,35 to 44,42
+2016,Assault,M,Adult,45 to 54,24
+2016,Assault,M,Adult,55 to 64,4
+2016,Assault,M,Adult,65+,2
+2016,Assault,M,Unknown,Unknown,67
+2016,Assault,M,Youth,12 to 17,1
+2016,Assault,U,Adult,25 to 34,1
+2016,Assault,U,Adult,35 to 44,2
+2016,Assault,U,Unknown,Unknown,2
+2016,Assault,F,Adult,18 to 24,1499
+2016,Assault,F,Adult,25 to 34,2011
+2016,Assault,F,Adult,35 to 44,1311
+2016,Assault,F,Adult,45 to 54,938
+2016,Assault,F,Adult,55 to 64,485
+2016,Assault,F,Adult,65+,366
+2016,Assault,F,Child,<12,260
+2016,Assault,F,Unknown,Unknown,111
+2016,Assault,F,Youth,12 to 17,575
+2016,Assault,M,Adult,18 to 24,1250
+2016,Assault,M,Adult,25 to 34,1857
+2016,Assault,M,Adult,35 to 44,1316
+2016,Assault,M,Adult,45 to 54,1326
+2016,Assault,M,Adult,55 to 64,759
+2016,Assault,M,Adult,65+,354
+2016,Assault,M,Child,<12,519
+2016,Assault,M,Unknown,Unknown,180
+2016,Assault,M,Youth,12 to 17,624
+2016,Assault,U,Adult,18 to 24,1
+2016,Assault,U,Adult,25 to 34,1
+2016,Assault,U,Adult,35 to 44,1
+2016,Assault,U,Adult,55 to 64,1
+2016,Assault,U,Unknown,Unknown,4
+2016,Other,F,Adult,18 to 24,471
+2016,Other,F,Adult,25 to 34,740
+2016,Other,F,Adult,35 to 44,515
+2016,Other,F,Adult,45 to 54,424
+2016,Other,F,Adult,55 to 64,185
+2016,Other,F,Adult,65+,102
+2016,Other,F,Child,<12,60
+2016,Other,F,Unknown,Unknown,113
+2016,Other,F,Youth,12 to 17,235
+2016,Other,M,Adult,18 to 24,278
+2016,Other,M,Adult,25 to 34,465
+2016,Other,M,Adult,35 to 44,404
+2016,Other,M,Adult,45 to 54,374
+2016,Other,M,Adult,55 to 64,214
+2016,Other,M,Adult,65+,94
+2016,Other,M,Child,<12,74
+2016,Other,M,Unknown,Unknown,172
+2016,Other,M,Youth,12 to 17,147
+2017,Assault,F,Adult,25 to 34,17
+2017,Assault,F,Adult,35 to 44,11
+2017,Assault,F,Adult,45 to 54,7
+2017,Assault,F,Adult,55 to 64,3
+2017,Assault,F,Unknown,Unknown,91
+2017,Assault,M,Adult,18 to 24,4
+2017,Assault,M,Adult,25 to 34,51
+2017,Assault,M,Adult,35 to 44,52
+2017,Assault,M,Adult,45 to 54,32
+2017,Assault,M,Adult,55 to 64,4
+2017,Assault,M,Adult,65+,3
+2017,Assault,M,Unknown,Unknown,301
+2017,Assault,U,Unknown,Unknown,2
+2017,Assault,F,Adult,25 to 34,4
+2017,Assault,F,Unknown,Unknown,8
+2017,Assault,M,Adult,18 to 24,2
+2017,Assault,M,Adult,25 to 34,3
+2017,Assault,M,Adult,35 to 44,8
+2017,Assault,M,Adult,45 to 54,3
+2017,Assault,M,Adult,55 to 64,3
+2017,Assault,M,Adult,65+,1
+2017,Assault,M,Unknown,Unknown,30
+2017,Assault,F,Adult,18 to 24,10
+2017,Assault,F,Adult,25 to 34,15
+2017,Assault,F,Adult,35 to 44,3
+2017,Assault,F,Adult,45 to 54,5
+2017,Assault,F,Adult,55 to 64,4
+2017,Assault,F,Unknown,Unknown,7
+2017,Assault,M,Adult,18 to 24,76
+2017,Assault,M,Adult,25 to 34,76
+2017,Assault,M,Adult,35 to 44,31
+2017,Assault,M,Adult,45 to 54,27
+2017,Assault,M,Adult,55 to 64,7
+2017,Assault,M,Adult,65+,4
+2017,Assault,M,Unknown,Unknown,75
+2017,Assault,M,Youth,12 to 17,2
+2017,Assault,F,Adult,18 to 24,1419
+2017,Assault,F,Adult,25 to 34,2063
+2017,Assault,F,Adult,35 to 44,1376
+2017,Assault,F,Adult,45 to 54,999
+2017,Assault,F,Adult,55 to 64,489
+2017,Assault,F,Adult,65+,369
+2017,Assault,F,Child,<12,290
+2017,Assault,F,Unknown,Unknown,92
+2017,Assault,F,Youth,12 to 17,602
+2017,Assault,M,Adult,18 to 24,1315
+2017,Assault,M,Adult,25 to 34,1937
+2017,Assault,M,Adult,35 to 44,1307
+2017,Assault,M,Adult,45 to 54,1316
+2017,Assault,M,Adult,55 to 64,802
+2015,Assault,F,Child,<12,296
+2015,Assault,F,Unknown,Unknown,73
+2015,Assault,F,Youth,12 to 17,510
+2015,Assault,M,Adult,18 to 24,1255
+2015,Assault,M,Adult,25 to 34,1696
+2015,Assault,M,Adult,35 to 44,1215
+2015,Assault,M,Adult,45 to 54,1301
+2015,Assault,M,Adult,55 to 64,683
+2015,Assault,M,Adult,65+,335
+2015,Assault,M,Child,<12,470
+2015,Assault,M,Unknown,Unknown,211
+2015,Assault,M,Youth,12 to 17,545
+2015,Assault,U,Adult,18 to 24,1
+2015,Assault,U,Adult,45 to 54,1
+2015,Other,F,Adult,18 to 24,533
+2015,Other,F,Adult,25 to 34,858
+2015,Other,F,Adult,35 to 44,575
+2015,Other,F,Adult,45 to 54,410
+2015,Other,F,Adult,55 to 64,184
+2015,Other,F,Adult,65+,124
+2015,Other,F,Child,<12,64
+2015,Other,F,Unknown,Unknown,78
+2015,Other,F,Youth,12 to 17,260
+2015,Other,M,Adult,18 to 24,297
+2015,Other,M,Adult,25 to 34,485
+2015,Other,M,Adult,35 to 44,463
+2015,Other,M,Adult,45 to 54,440
+2015,Other,M,Adult,55 to 64,259
+2015,Other,M,Adult,65+,139
+2015,Other,M,Child,<12,90
+2015,Other,M,Unknown,Unknown,170
+2015,Other,M,Youth,12 to 17,172
+2015,Other,U,Adult,25 to 34,1
+2015,Other,U,Adult,35 to 44,1
+2015,Other,U,Unknown,Unknown,6
+2015,Robbery,F,Adult,18 to 24,189
+2015,Robbery,F,Adult,25 to 34,175
+2015,Robbery,F,Adult,35 to 44,108
+2015,Robbery,F,Adult,45 to 54,135
+2015,Robbery,F,Adult,55 to 64,78
+2015,Robbery,F,Adult,65+,61
+2015,Robbery,F,Child,<12,8
+2015,Robbery,F,Unknown,Unknown,10
+2015,Robbery,F,Youth,12 to 17,66
+2015,Robbery,M,Adult,18 to 24,630
+2015,Robbery,M,Adult,25 to 34,403
+2015,Robbery,M,Adult,35 to 44,199
+2015,Robbery,M,Adult,45 to 54,227
+2015,Robbery,M,Adult,55 to 64,153
+2015,Robbery,M,Adult,65+,94
+2016,Other,U,Adult,18 to 24,1
+2016,Other,U,Adult,25 to 34,1
+2016,Other,U,Adult,35 to 44,2
+2016,Other,U,Adult,45 to 54,1
+2016,Other,U,Unknown,Unknown,1
+2016,Robbery,F,Adult,18 to 24,191
+2016,Robbery,F,Adult,25 to 34,185
+2016,Robbery,F,Adult,35 to 44,114
+2016,Robbery,F,Adult,45 to 54,122
+2016,Robbery,F,Adult,55 to 64,97
+2016,Robbery,F,Adult,65+,41
+2016,Robbery,F,Child,<12,6
+2016,Robbery,F,Unknown,Unknown,11
+2016,Robbery,F,Youth,12 to 17,77
+2016,Robbery,M,Adult,18 to 24,704
+2016,Robbery,M,Adult,25 to 34,434
+2016,Robbery,M,Adult,35 to 44,222
+2016,Robbery,M,Adult,45 to 54,258
+2016,Robbery,M,Adult,55 to 64,162
+2016,Robbery,M,Adult,65+,63
+2016,Robbery,M,Child,<12,17
+2016,Robbery,M,Unknown,Unknown,45
+2016,Robbery,M,Youth,12 to 17,699
+2016,Robbery,U,Adult,18 to 24,1
+2016,Robbery,U,Adult,35 to 44,1
+2016,Robbery,U,Youth,12 to 17,2
+2016,Sexual Violation,F,Adult,18 to 24,513
+2016,Sexual Violation,F,Adult,25 to 34,417
+2016,Sexual Violation,F,Adult,35 to 44,181
+2016,Sexual Violation,F,Adult,45 to 54,100
+2016,Sexual Violation,F,Adult,55 to 64,56
+2016,Sexual Violation,F,Adult,65+,35
+2016,Sexual Violation,F,Child,<12,207
+2016,Sexual Violation,F,Unknown,Unknown,15
+2016,Sexual Violation,F,Youth,12 to 17,433
+2016,Sexual Violation,M,Adult,18 to 24,43
+2016,Sexual Violation,M,Adult,25 to 34,25
+2016,Sexual Violation,M,Adult,35 to 44,15
+2016,Sexual Violation,M,Adult,45 to 54,11
+2016,Sexual Violation,M,Adult,55 to 64,6
+2016,Sexual Violation,M,Adult,65+,2
+2016,Sexual Violation,M,Child,<12,86
+2016,Sexual Violation,M,Unknown,Unknown,11
+2016,Sexual Violation,M,Youth,12 to 17,48
+2016,Sexual Violation,U,Adult,18 to 24,1
+2016,Sexual Violation,U,Youth,12 to 17,1
+2017,Assault,F,Adult,65+,1
+2017,Assault,M,Adult,35 to 44,1
+2017,Assault,M,Unknown,Unknown,4
+2017,Assault,F,Adult,18 to 24,1
+2017,Assault,M,Adult,65+,393
+2017,Assault,M,Child,<12,488
+2017,Assault,M,Unknown,Unknown,213
+2017,Assault,M,Youth,12 to 17,642
+2017,Assault,U,Adult,25 to 34,1
+2017,Assault,U,Adult,45 to 54,1
+2017,Assault,U,Child,<12,10
+2017,Assault,U,Unknown,Unknown,23
+2017,Other,F,Adult,18 to 24,459
+2017,Other,F,Adult,25 to 34,708
+2017,Other,F,Adult,35 to 44,493
+2017,Other,F,Adult,45 to 54,347
+2017,Other,F,Adult,55 to 64,203
+2017,Other,F,Adult,65+,101
+2017,Other,F,Child,<12,76
+2017,Other,F,Unknown,Unknown,134
+2017,Other,F,Youth,12 to 17,230
+2017,Other,M,Adult,18 to 24,292
+2017,Other,M,Adult,25 to 34,484
+2017,Other,M,Adult,35 to 44,386
+2017,Other,M,Adult,45 to 54,370
+2017,Other,M,Adult,55 to 64,215
+2017,Other,M,Adult,65+,99
+2017,Other,M,Child,<12,61
+2017,Other,M,Unknown,Unknown,146
+2017,Other,M,Youth,12 to 17,173
+2017,Other,U,Adult,25 to 34,1
+2017,Other,U,Adult,45 to 54,3
+2017,Other,U,Unknown,Unknown,9
+2017,Robbery,F,Adult,18 to 24,215
+2017,Sexual Violation,F,Adult,25 to 34,416
+2017,Robbery,F,Adult,25 to 34,199
+2017,Robbery,F,Adult,35 to 44,117
+2017,Robbery,F,Adult,45 to 54,141
+2017,Robbery,F,Adult,55 to 64,81
+2017,Robbery,F,Adult,65+,46
+2017,Robbery,F,Child,<12,6
+2017,Robbery,F,Unknown,Unknown,10
+2017,Robbery,F,Youth,12 to 17,95
+2017,Robbery,M,Adult,18 to 24,727
+2017,Robbery,M,Adult,25 to 34,493
+2017,Robbery,M,Adult,35 to 44,259
+2017,Robbery,M,Adult,45 to 54,243
+2017,Robbery,M,Adult,55 to 64,180
+2017,Robbery,M,Adult,65+,72
+2017,Robbery,M,Child,<12,19
+2017,Robbery,M,Unknown,Unknown,38
+2017,Robbery,M,Youth,12 to 17,750
+2017,Robbery,U,Unknown,Unknown,1
+2017,Robbery,U,Youth,12 to 17,1
+2017,Sexual Violation,F,Adult,18 to 24,513
+2017,Sexual Violation,F,Adult,35 to 44,200
+2017,Sexual Violation,F,Adult,45 to 54,112
+2017,Sexual Violation,F,Adult,55 to 64,55
+2017,Sexual Violation,F,Adult,65+,37
+2017,Sexual Violation,F,Child,<12,217
+2017,Sexual Violation,F,Unknown,Unknown,31
+2017,Sexual Violation,F,Youth,12 to 17,467
+2017,Sexual Violation,M,Adult,18 to 24,62
+2017,Sexual Violation,M,Adult,25 to 34,33
+2017,Sexual Violation,M,Adult,35 to 44,27
+2017,Sexual Violation,M,Adult,45 to 54,18
+2017,Sexual Violation,M,Adult,55 to 64,6
+2017,Sexual Violation,M,Adult,65+,6
+2017,Sexual Violation,M,Child,<12,74
+2017,Sexual Violation,M,Unknown,Unknown,3
+2017,Sexual Violation,M,Youth,12 to 17,63
+2017,Sexual Violation,U,Unknown,Unknown,2
+2018,Assault,M,Unknown,Unknown,1
+2018,Assault,F,Adult,25 to 34,16
+2018,Assault,F,Adult,35 to 44,9
+2018,Assault,F,Adult,45 to 54,7
+2018,Assault,F,Adult,55 to 64,2
+2018,Assault,F,Adult,65+,4
+2018,Assault,F,Unknown,Unknown,74
+2018,Assault,M,Adult,18 to 24,4
+2018,Assault,M,Adult,25 to 34,66
+2018,Assault,M,Adult,35 to 44,46
+2018,Assault,M,Adult,45 to 54,53
+2018,Assault,M,Adult,55 to 64,14
+2018,Assault,M,Adult,65+,4
+2018,Assault,M,Unknown,Unknown,332
+2018,Assault,U,Unknown,Unknown,1
+2018,Assault,F,Adult,45 to 54,1
+2018,Assault,F,Adult,65+,1
+2018,Assault,F,Unknown,Unknown,5
+2018,Assault,M,Adult,18 to 24,1
+2018,Assault,M,Adult,25 to 34,6
+2018,Assault,M,Adult,35 to 44,15
+2018,Assault,M,Adult,45 to 54,7
+2018,Assault,M,Adult,65+,2
+2018,Assault,M,Unknown,Unknown,25
+2018,Assault,F,Adult,18 to 24,18
+2018,Assault,F,Adult,25 to 34,13
+2018,Assault,F,Adult,35 to 44,7
+2018,Assault,F,Adult,45 to 54,3
+2018,Assault,F,Adult,55 to 64,2
+2018,Assault,F,Unknown,Unknown,8
+2018,Assault,F,Youth,12 to 17,1
+2018,Assault,M,Adult,18 to 24,59
+2020,Assault,F,Adult,18 to 24,2
+2020,Assault,F,Adult,25 to 34,6
+2020,Assault,F,Adult,35 to 44,4
+2020,Assault,F,Adult,45 to 54,1
+2020,Assault,F,Adult,55 to 64,1
+2020,Assault,F,Unknown,Unknown,5
+2020,Assault,M,Adult,18 to 24,36
+2020,Assault,M,Adult,25 to 34,39
+2020,Assault,M,Adult,35 to 44,19
+2020,Assault,M,Adult,45 to 54,14
+2020,Assault,M,Adult,55 to 64,6
+2020,Assault,M,Adult,65+,1
+2020,Assault,M,Unknown,Unknown,40
+2020,Assault,U,Unknown,Unknown,1
+2020,Assault,F,Adult,18 to 24,1269
+2020,Assault,F,Adult,25 to 34,2234
+2020,Assault,F,Adult,35 to 44,1579
+2020,Assault,F,Adult,45 to 54,962
+2020,Assault,F,Adult,55 to 64,562
+2020,Assault,F,Adult,65+,405
+2020,Assault,F,Child,<12,204
+2020,Assault,F,Unknown,Unknown,73
+2020,Assault,F,Youth,12 to 17,346
+2020,Assault,M,Adult,18 to 24,1060
+2020,Assault,M,Adult,25 to 34,1925
+2020,Assault,M,Adult,35 to 44,1362
+2020,Assault,M,Adult,45 to 54,1267
+2020,Assault,M,Adult,55 to 64,1001
+2020,Assault,M,Adult,65+,506
+2020,Assault,M,Child,<12,287
+2020,Assault,M,Unknown,Unknown,183
+2020,Assault,M,Youth,12 to 17,354
+2020,Assault,U,Adult,18 to 24,2
+2020,Assault,U,Adult,25 to 34,7
+2020,Assault,U,Adult,35 to 44,2
+2020,Assault,U,Adult,45 to 54,2
+2020,Assault,U,Adult,55 to 64,3
+2020,Assault,U,Adult,65+,1
+2020,Assault,U,Unknown,Unknown,55
+2020,Assault,U,Youth,12 to 17,1
+2020,Other,F,Adult,18 to 24,315
+2020,Other,F,Adult,25 to 34,483
+2020,Other,F,Adult,35 to 44,341
+2020,Other,F,Adult,45 to 54,247
+2020,Other,F,Adult,55 to 64,127
+2020,Other,F,Adult,65+,68
+2020,Other,F,Child,<12,51
+2020,Other,F,Unknown,Unknown,40
+2020,Other,F,Youth,12 to 17,128
+2020,Other,M,Adult,18 to 24,222
+2019,Assault,F,Unknown,Unknown,74
+2019,Assault,M,Adult,18 to 24,7
+2019,Assault,M,Adult,25 to 34,69
+2019,Assault,M,Adult,35 to 44,37
+2019,Assault,M,Adult,45 to 54,37
+2019,Assault,M,Adult,55 to 64,15
+2019,Assault,M,Adult,65+,15
+2019,Assault,M,Unknown,Unknown,331
+2019,Assault,U,Unknown,Unknown,11
+2019,Assault,F,Adult,25 to 34,2
+2019,Assault,F,Adult,35 to 44,1
+2019,Assault,F,Adult,65+,1
+2019,Assault,F,Unknown,Unknown,10
+2019,Assault,M,Adult,25 to 34,8
+2019,Assault,M,Adult,35 to 44,4
+2019,Assault,M,Adult,45 to 54,6
+2019,Assault,M,Adult,55 to 64,1
+2019,Assault,M,Adult,65+,1
+2019,Assault,M,Unknown,Unknown,34
+2019,Assault,U,Unknown,Unknown,3
+2019,Assault,F,Adult,18 to 24,13
+2019,Assault,F,Adult,25 to 34,10
+2019,Assault,F,Adult,35 to 44,2
+2019,Assault,F,Adult,45 to 54,1
+2019,Assault,F,Adult,55 to 64,2
+2019,Assault,F,Adult,65+,1
+2019,Assault,F,Unknown,Unknown,5
+2019,Assault,M,Adult,18 to 24,81
+2019,Assault,M,Adult,25 to 34,91
+2019,Assault,M,Adult,35 to 44,30
+2019,Assault,M,Adult,45 to 54,30
+2019,Assault,M,Adult,55 to 64,12
+2019,Assault,M,Adult,65+,5
+2019,Assault,M,Unknown,Unknown,62
+2019,Assault,U,Unknown,Unknown,2
+2019,Assault,F,Adult,18 to 24,1407
+2019,Assault,F,Adult,25 to 34,2300
+2019,Assault,F,Adult,35 to 44,1649
+2019,Assault,F,Adult,45 to 54,1068
+2019,Assault,F,Adult,55 to 64,618
+2019,Assault,F,Adult,65+,448
+2019,Assault,F,Child,<12,309
+2019,Assault,F,Unknown,Unknown,128
+2019,Assault,F,Youth,12 to 17,599
+2019,Assault,M,Adult,18 to 24,1360
+2019,Assault,M,Adult,25 to 34,2111
+2019,Assault,M,Adult,35 to 44,1567
+2019,Assault,M,Adult,45 to 54,1325
+2019,Assault,M,Adult,55 to 64,985
+2019,Assault,M,Adult,65+,477
+2019,Assault,M,Child,<12,505
+2019,Assault,M,Unknown,Unknown,224
+2019,Assault,M,Youth,12 to 17,713
+2019,Assault,U,Adult,18 to 24,2
+2019,Assault,U,Adult,25 to 34,1
+2019,Assault,U,Adult,35 to 44,1
+2019,Assault,U,Child,<12,2
+2019,Assault,U,Unknown,Unknown,45
+2019,Other,F,Adult,18 to 24,358
+2019,Other,F,Adult,25 to 34,570
+2019,Other,F,Adult,35 to 44,400
+2019,Other,F,Adult,45 to 54,275
+2019,Other,F,Adult,55 to 64,164
+2019,Other,F,Adult,65+,79
+2019,Other,F,Child,<12,68
+2019,Other,F,Unknown,Unknown,74
+2019,Other,F,Youth,12 to 17,215
+2019,Other,M,Adult,18 to 24,300
+2019,Other,M,Adult,25 to 34,381
+2019,Other,M,Adult,35 to 44,311
+2019,Other,M,Adult,45 to 54,280
+2019,Other,M,Adult,55 to 64,199
+2019,Other,M,Adult,65+,82
+2019,Other,M,Child,<12,64
+2019,Other,M,Unknown,Unknown,123
+2019,Other,M,Youth,12 to 17,169
+2019,Other,U,Adult,25 to 34,1
+2019,Other,U,Unknown,Unknown,12
+2019,Robbery,F,Adult,18 to 24,183
+2019,Robbery,F,Adult,25 to 34,154
+2019,Robbery,F,Adult,35 to 44,108
+2019,Robbery,F,Adult,45 to 54,102
+2019,Robbery,F,Adult,55 to 64,89
+2019,Robbery,F,Adult,65+,61
+2019,Robbery,F,Child,<12,6
+2019,Robbery,F,Unknown,Unknown,7
+2019,Robbery,F,Youth,12 to 17,56
+2019,Robbery,M,Adult,18 to 24,692
+2019,Robbery,M,Adult,25 to 34,472
+2019,Robbery,M,Adult,35 to 44,245
+2019,Robbery,M,Adult,45 to 54,198
+2019,Robbery,M,Adult,55 to 64,177
+2019,Robbery,M,Adult,65+,85
+2019,Robbery,M,Child,<12,12
+2019,Robbery,M,Unknown,Unknown,38
+2019,Robbery,M,Youth,12 to 17,555
+2019,Robbery,U,Adult,18 to 24,3
+2019,Robbery,U,Adult,25 to 34,5
+2019,Robbery,U,Adult,35 to 44,1
+2019,Robbery,U,Adult,45 to 54,1
+2018,Assault,M,Adult,25 to 34,77
+2018,Other,U,Unknown,Unknown,10
+2018,Robbery,F,Adult,18 to 24,197
+2018,Robbery,F,Adult,25 to 34,189
+2018,Robbery,F,Adult,35 to 44,116
+2018,Robbery,F,Adult,45 to 54,107
+2018,Robbery,F,Adult,55 to 64,85
+2018,Robbery,F,Adult,65+,58
+2018,Robbery,F,Child,<12,6
+2018,Robbery,F,Unknown,Unknown,10
+2018,Robbery,F,Youth,12 to 17,57
+2018,Robbery,M,Adult,18 to 24,715
+2018,Robbery,M,Adult,25 to 34,462
+2018,Robbery,M,Adult,35 to 44,250
+2018,Robbery,M,Adult,45 to 54,248
+2018,Robbery,M,Adult,55 to 64,158
+2018,Robbery,M,Adult,65+,89
+2018,Robbery,M,Child,<12,7
+2018,Robbery,M,Unknown,Unknown,24
+2018,Robbery,M,Youth,12 to 17,537
+2018,Robbery,U,Adult,18 to 24,1
+2019,Robbery,U,Unknown,Unknown,1
+2018,Sexual Violation,F,Adult,18 to 24,636
+2018,Sexual Violation,F,Adult,25 to 34,506
+2018,Sexual Violation,F,Adult,35 to 44,230
+2018,Sexual Violation,F,Adult,45 to 54,126
+2018,Sexual Violation,F,Adult,55 to 64,75
+2018,Sexual Violation,F,Adult,65+,51
+2018,Sexual Violation,F,Child,<12,215
+2018,Sexual Violation,F,Unknown,Unknown,37
+2018,Sexual Violation,F,Youth,12 to 17,516
+2018,Sexual Violation,M,Adult,18 to 24,53
+2018,Sexual Violation,M,Adult,25 to 34,54
+2018,Sexual Violation,M,Adult,35 to 44,33
+2018,Sexual Violation,M,Adult,45 to 54,17
+2018,Sexual Violation,M,Adult,55 to 64,7
+2018,Sexual Violation,M,Adult,65+,4
+2018,Sexual Violation,M,Child,<12,81
+2018,Sexual Violation,M,Unknown,Unknown,10
+2018,Sexual Violation,M,Youth,12 to 17,76
+2018,Sexual Violation,U,Adult,25 to 34,1
+2018,Sexual Violation,U,Adult,45 to 54,1
+2018,Sexual Violation,U,Child,<12,1
+2018,Sexual Violation,U,Unknown,Unknown,6
+2019,Assault,F,Unknown,Unknown,1
+2019,Assault,M,Unknown,Unknown,1
+2019,Assault,F,Adult,18 to 24,1
+2019,Assault,F,Adult,25 to 34,18
+2019,Assault,F,Adult,35 to 44,11
+2019,Assault,F,Adult,45 to 54,4
+2019,Assault,F,Adult,55 to 64,1
+2019,Assault,F,Adult,65+,1
+2018,Assault,M,Adult,35 to 44,20
+2019,Robbery,U,Youth,12 to 17,1
+2018,Assault,M,Adult,45 to 54,26
+2019,Sexual Violation,F,Adult,18 to 24,563
+2018,Assault,M,Adult,55 to 64,5
+2019,Sexual Violation,F,Adult,25 to 34,451
+2018,Assault,M,Adult,65+,4
+2019,Sexual Violation,F,Adult,35 to 44,262
+2018,Assault,M,Unknown,Unknown,69
+2019,Sexual Violation,F,Adult,45 to 54,130
+2018,Assault,F,Adult,18 to 24,1481
+2019,Sexual Violation,F,Adult,55 to 64,59
+2018,Assault,F,Adult,25 to 34,2166
+2019,Sexual Violation,F,Adult,65+,65
+2018,Assault,F,Adult,35 to 44,1512
+2019,Sexual Violation,F,Child,<12,234
+2018,Assault,F,Adult,45 to 54,1039
+2019,Sexual Violation,F,Unknown,Unknown,23
+2019,Sexual Violation,F,Youth,12 to 17,538
+2019,Sexual Violation,M,Adult,18 to 24,61
+2019,Sexual Violation,M,Adult,25 to 34,63
+2019,Sexual Violation,M,Adult,35 to 44,22
+2019,Sexual Violation,M,Adult,45 to 54,17
+2019,Sexual Violation,M,Adult,55 to 64,11
+2019,Sexual Violation,M,Adult,65+,6
+2019,Sexual Violation,M,Child,<12,114
+2019,Sexual Violation,M,Unknown,Unknown,4
+2019,Sexual Violation,M,Youth,12 to 17,90
+2019,Sexual Violation,U,Child,<12,1
+2019,Sexual Violation,U,Unknown,Unknown,3
+2019,Sexual Violation,U,Youth,12 to 17,2
+2020,Assault,M,Adult,25 to 34,1
+2020,Assault,M,Unknown,Unknown,2
+2020,Assault,F,Adult,18 to 24,3
+2020,Assault,F,Adult,25 to 34,15
+2020,Assault,F,Adult,35 to 44,8
+2020,Assault,F,Adult,45 to 54,7
+2020,Assault,F,Adult,65+,1
+2020,Assault,F,Unknown,Unknown,64
+2020,Assault,M,Adult,18 to 24,11
+2020,Assault,M,Adult,25 to 34,57
+2020,Assault,M,Adult,35 to 44,26
+2020,Assault,M,Adult,45 to 54,21
+2020,Assault,M,Adult,55 to 64,12
+2020,Assault,M,Adult,65+,16
+2020,Assault,M,Unknown,Unknown,290
+2020,Assault,U,Unknown,Unknown,11
+2020,Assault,F,Adult,35 to 44,2
+2020,Assault,F,Adult,55 to 64,1
+2020,Assault,F,Unknown,Unknown,12
+2020,Assault,M,Adult,18 to 24,1
+2020,Assault,M,Adult,25 to 34,3
+2020,Assault,M,Adult,35 to 44,9
+2020,Assault,M,Adult,45 to 54,7
+2020,Assault,M,Adult,55 to 64,2
+2020,Assault,M,Adult,65+,1
+2020,Assault,M,Unknown,Unknown,43
+2020,Assault,U,Unknown,Unknown,2
+2018,Assault,F,Adult,55 to 64,492
+2018,Assault,F,Adult,65+,396
+2018,Assault,F,Child,<12,308
+2018,Assault,F,Unknown,Unknown,134
+2018,Assault,F,Youth,12 to 17,532
+2018,Assault,M,Adult,18 to 24,1294
+2018,Assault,M,Adult,25 to 34,1972
+2018,Assault,M,Adult,35 to 44,1482
+2018,Assault,M,Adult,45 to 54,1363
+2018,Assault,M,Adult,55 to 64,918
+2018,Assault,M,Adult,65+,439
+2018,Assault,M,Child,<12,446
+2018,Assault,M,Unknown,Unknown,247
+2018,Assault,M,Youth,12 to 17,592
+2018,Assault,U,Adult,25 to 34,2
+2018,Assault,U,Adult,35 to 44,1
+2018,Assault,U,Adult,45 to 54,1
+2018,Assault,U,Unknown,Unknown,30
+2018,Other,F,Adult,18 to 24,417
+2018,Other,F,Adult,25 to 34,633
+2018,Other,F,Adult,35 to 44,483
+2018,Other,F,Adult,45 to 54,344
+2018,Other,F,Adult,55 to 64,168
+2018,Other,F,Adult,65+,106
+2018,Other,F,Child,<12,79
+2018,Other,F,Unknown,Unknown,107
+2018,Other,F,Youth,12 to 17,226
+2018,Other,M,Adult,18 to 24,321
+2018,Other,M,Adult,25 to 34,480
+2018,Other,M,Adult,35 to 44,406
+2018,Other,M,Adult,45 to 54,388
+2018,Other,M,Adult,55 to 64,251
+2018,Other,M,Adult,65+,96
+2018,Other,M,Child,<12,65
+2018,Other,M,Unknown,Unknown,148
+2018,Other,M,Youth,12 to 17,166
+2018,Other,U,Adult,18 to 24,1
+2018,Other,U,Adult,25 to 34,2
+2018,Other,U,Adult,35 to 44,2
+2018,Other,U,Adult,45 to 54,1
+2021,Assault,M,Adult,45 to 54,1268
+2021,Assault,M,Adult,55 to 64,1100
+2021,Assault,M,Adult,65+,516
+2021,Assault,M,Child,<12,301
+2021,Assault,M,Unknown,Unknown,133
+2021,Assault,M,Youth,12 to 17,471
+2021,Assault,U,Adult,18 to 24,2
+2021,Assault,U,Adult,25 to 34,5
+2021,Assault,U,Adult,35 to 44,3
+2021,Assault,U,Adult,45 to 54,6
+2021,Assault,U,Adult,55 to 64,1
+2021,Assault,U,Unknown,Unknown,57
+2021,Assault,U,Youth,12 to 17,2
+2021,Other,F,Adult,18 to 24,280
+2021,Other,F,Adult,25 to 34,513
+2021,Other,F,Adult,35 to 44,371
+2021,Other,F,Adult,45 to 54,233
+2021,Other,F,Adult,55 to 64,149
+2021,Other,F,Adult,65+,72
+2021,Other,F,Child,<12,35
+2021,Other,F,Unknown,Unknown,45
+2021,Other,F,Youth,12 to 17,127
+2021,Other,M,Adult,18 to 24,199
+2021,Other,M,Adult,25 to 34,332
+2021,Other,M,Adult,35 to 44,315
+2021,Other,M,Adult,45 to 54,277
+2021,Other,M,Adult,55 to 64,178
+2021,Other,M,Adult,65+,96
+2021,Other,M,Child,<12,44
+2021,Other,M,Unknown,Unknown,60
+2021,Other,M,Youth,12 to 17,97
+2021,Other,U,Adult,25 to 34,2
+2021,Other,U,Adult,35 to 44,2
+2021,Other,U,Adult,65+,1
+2021,Other,U,Unknown,Unknown,6
+2021,Other,U,Youth,12 to 17,1
+2021,Robbery,F,Adult,18 to 24,93
+2021,Robbery,F,Adult,25 to 34,136
+2021,Robbery,F,Adult,35 to 44,82
+2021,Robbery,F,Adult,45 to 54,66
+2021,Robbery,F,Adult,55 to 64,65
+2021,Robbery,F,Adult,65+,31
+2021,Robbery,F,Child,<12,2
+2021,Robbery,F,Unknown,Unknown,8
+2021,Robbery,F,Youth,12 to 17,35
+2021,Robbery,M,Adult,18 to 24,299
+2021,Robbery,M,Adult,25 to 34,334
+2021,Robbery,M,Adult,35 to 44,147
+2021,Robbery,M,Adult,45 to 54,130
+2021,Robbery,M,Adult,55 to 64,125
+2021,Robbery,M,Adult,65+,70
+2021,Robbery,M,Child,<12,12
+2022,Assault,F,Adult,65+,1
+2020,Other,M,Adult,25 to 34,383
+2022,Assault,F,Unknown,Unknown,8
+2020,Other,M,Adult,35 to 44,263
+2022,Assault,M,Adult,18 to 24,31
+2020,Other,M,Adult,45 to 54,239
+2022,Assault,M,Adult,25 to 34,53
+2020,Other,M,Adult,55 to 64,176
+2022,Assault,M,Adult,35 to 44,21
+2020,Other,M,Adult,65+,60
+2022,Assault,M,Adult,45 to 54,12
+2020,Other,M,Child,<12,74
+2022,Assault,M,Adult,55 to 64,6
+2020,Other,M,Unknown,Unknown,74
+2022,Assault,M,Adult,65+,15
+2020,Other,M,Youth,12 to 17,93
+2022,Assault,M,Unknown,Unknown,31
+2020,Other,U,Adult,18 to 24,1
+2022,Assault,F,Adult,18 to 24,1397
+2020,Other,U,Adult,25 to 34,1
+2022,Assault,F,Adult,25 to 34,2528
+2020,Other,U,Adult,45 to 54,4
+2022,Assault,F,Adult,35 to 44,1747
+2020,Other,U,Child,<12,1
+2022,Assault,F,Adult,45 to 54,1025
+2020,Other,U,Unknown,Unknown,11
+2022,Assault,F,Adult,55 to 64,631
+2020,Other,U,Youth,12 to 17,1
+2022,Assault,F,Adult,65+,456
+2020,Robbery,F,Adult,18 to 24,135
+2022,Assault,F,Child,<12,239
+2020,Robbery,F,Adult,25 to 34,138
+2022,Assault,F,Unknown,Unknown,77
+2020,Robbery,F,Adult,35 to 44,102
+2022,Assault,F,Youth,12 to 17,622
+2020,Robbery,F,Adult,45 to 54,118
+2022,Assault,M,Adult,18 to 24,1210
+2020,Robbery,F,Adult,55 to 64,65
+2022,Assault,M,Adult,25 to 34,2272
+2020,Robbery,F,Adult,65+,46
+2022,Assault,M,Adult,35 to 44,1729
+2022,Assault,M,Adult,45 to 54,1311
+2022,Assault,M,Adult,55 to 64,1086
+2022,Assault,M,Adult,65+,595
+2022,Assault,M,Child,<12,334
+2022,Assault,M,Unknown,Unknown,179
+2022,Assault,M,Youth,12 to 17,590
+2022,Assault,U,Adult,18 to 24,3
+2022,Assault,U,Adult,25 to 34,12
+2022,Assault,U,Adult,35 to 44,4
+2022,Assault,U,Adult,45 to 54,7
+2022,Assault,U,Adult,55 to 64,2
+2022,Assault,U,Adult,65+,1
+2022,Assault,U,Unknown,Unknown,22
+2022,Assault,U,Youth,12 to 17,2
+2022,Other,F,Adult,18 to 24,284
+2022,Other,F,Adult,25 to 34,523
+2022,Other,F,Adult,35 to 44,398
+2022,Other,F,Adult,45 to 54,246
+2022,Other,F,Adult,55 to 64,151
+2022,Other,F,Adult,65+,77
+2022,Other,F,Child,<12,52
+2022,Other,F,Unknown,Unknown,39
+2022,Other,F,Youth,12 to 17,188
+2022,Other,M,Adult,18 to 24,183
+2022,Other,M,Adult,25 to 34,316
+2022,Other,M,Adult,35 to 44,307
+2022,Other,M,Adult,45 to 54,248
+2022,Other,M,Adult,55 to 64,165
+2022,Other,M,Adult,65+,81
+2022,Other,M,Child,<12,64
+2022,Other,M,Unknown,Unknown,79
+2020,Robbery,F,Child,<12,4
+2020,Robbery,F,Unknown,Unknown,9
+2020,Robbery,F,Youth,12 to 17,49
+2020,Robbery,M,Adult,18 to 24,447
+2020,Robbery,M,Adult,25 to 34,380
+2020,Robbery,M,Adult,35 to 44,204
+2020,Robbery,M,Adult,45 to 54,190
+2020,Robbery,M,Adult,55 to 64,138
+2020,Robbery,M,Adult,65+,84
+2020,Robbery,M,Child,<12,4
+2020,Robbery,M,Unknown,Unknown,22
+2020,Robbery,M,Youth,12 to 17,235
+2020,Sexual Violation,F,Adult,18 to 24,446
+2020,Sexual Violation,F,Adult,25 to 34,454
+2020,Sexual Violation,F,Adult,35 to 44,222
+2020,Sexual Violation,F,Adult,45 to 54,104
+2020,Sexual Violation,F,Adult,55 to 64,51
+2020,Sexual Violation,F,Adult,65+,57
+2020,Sexual Violation,F,Child,<12,207
+2020,Sexual Violation,F,Unknown,Unknown,16
+2020,Sexual Violation,F,Youth,12 to 17,390
+2020,Sexual Violation,M,Adult,18 to 24,28
+2020,Sexual Violation,M,Adult,25 to 34,42
+2020,Sexual Violation,M,Adult,35 to 44,15
+2020,Sexual Violation,M,Adult,45 to 54,15
+2020,Sexual Violation,M,Adult,55 to 64,7
+2020,Sexual Violation,M,Adult,65+,3
+2020,Sexual Violation,M,Child,<12,86
+2020,Sexual Violation,M,Unknown,Unknown,9
+2020,Sexual Violation,M,Youth,12 to 17,58
+2020,Sexual Violation,U,Adult,25 to 34,1
+2020,Sexual Violation,U,Unknown,Unknown,2
+2021,Robbery,M,Unknown,Unknown,19
+2021,Robbery,M,Youth,12 to 17,198
+2021,Robbery,U,Adult,18 to 24,2
+2021,Sexual Violation,F,Adult,18 to 24,458
+2021,Sexual Violation,F,Adult,25 to 34,488
+2021,Sexual Violation,F,Adult,35 to 44,235
+2021,Sexual Violation,F,Adult,45 to 54,124
+2021,Sexual Violation,F,Adult,55 to 64,59
+2021,Sexual Violation,F,Adult,65+,51
+2021,Sexual Violation,F,Child,<12,288
+2021,Sexual Violation,F,Unknown,Unknown,21
+2021,Sexual Violation,F,Youth,12 to 17,507
+2021,Sexual Violation,M,Adult,18 to 24,46
+2021,Sexual Violation,M,Adult,25 to 34,65
+2021,Sexual Violation,M,Adult,35 to 44,27
+2021,Sexual Violation,M,Adult,45 to 54,19
+2021,Sexual Violation,M,Adult,55 to 64,16
+2021,Sexual Violation,M,Adult,65+,14
+2021,Sexual Violation,M,Child,<12,76
+2021,Sexual Violation,M,Unknown,Unknown,5
+2021,Sexual Violation,M,Youth,12 to 17,62
+2021,Sexual Violation,U,Adult,18 to 24,1
+2021,Sexual Violation,U,Child,<12,1
+2021,Sexual Violation,U,Unknown,Unknown,4
+2022,Assault,M,Adult,25 to 34,1
+2022,Assault,M,Unknown,Unknown,3
+2022,Assault,F,Adult,18 to 24,5
+2022,Assault,F,Adult,25 to 34,24
+2022,Assault,F,Adult,35 to 44,11
+2022,Assault,F,Adult,45 to 54,3
+2022,Assault,F,Adult,65+,16
+2022,Assault,F,Unknown,Unknown,51
+2022,Assault,M,Adult,18 to 24,8
+2022,Assault,M,Adult,25 to 34,61
+2022,Assault,M,Adult,35 to 44,42
+2022,Assault,M,Adult,45 to 54,44
+2022,Assault,M,Adult,55 to 64,9
+2022,Assault,M,Adult,65+,53
+2022,Assault,M,Unknown,Unknown,268
+2022,Assault,U,Unknown,Unknown,7
+2022,Assault,F,Adult,25 to 34,2
+2022,Assault,F,Adult,35 to 44,1
+2022,Assault,F,Unknown,Unknown,15
+2022,Assault,M,Adult,25 to 34,4
+2022,Assault,M,Adult,35 to 44,8
+2022,Assault,M,Adult,45 to 54,1
+2022,Assault,M,Adult,65+,11
+2022,Assault,M,Unknown,Unknown,79
+2022,Assault,U,Unknown,Unknown,2
+2022,Assault,F,Adult,18 to 24,2
+2022,Assault,F,Adult,25 to 34,3
+2022,Assault,F,Adult,35 to 44,2
+2021,Assault,M,Unknown,Unknown,4
+2021,Assault,F,Adult,18 to 24,1
+2021,Assault,F,Adult,25 to 34,16
+2021,Assault,F,Adult,35 to 44,4
+2021,Assault,F,Adult,45 to 54,1
+2021,Assault,F,Adult,55 to 64,3
+2021,Assault,F,Adult,65+,6
+2021,Assault,F,Unknown,Unknown,43
+2021,Assault,M,Adult,18 to 24,5
+2021,Assault,M,Adult,25 to 34,44
+2021,Assault,M,Adult,35 to 44,49
+2021,Assault,M,Adult,45 to 54,29
+2021,Assault,M,Adult,55 to 64,9
+2021,Assault,M,Adult,65+,31
+2021,Assault,M,Unknown,Unknown,243
+2021,Assault,U,Unknown,Unknown,22
+2021,Assault,F,Adult,25 to 34,2
+2021,Assault,F,Adult,35 to 44,1
+2021,Assault,F,Unknown,Unknown,15
+2021,Assault,M,Adult,25 to 34,4
+2021,Assault,M,Adult,35 to 44,2
+2021,Assault,M,Adult,45 to 54,3
+2021,Assault,M,Adult,55 to 64,3
+2021,Assault,M,Adult,65+,7
+2021,Assault,M,Unknown,Unknown,44
+2021,Assault,U,Unknown,Unknown,3
+2021,Assault,F,Adult,18 to 24,4
+2021,Assault,F,Adult,25 to 34,6
+2021,Assault,F,Adult,35 to 44,10
+2021,Assault,F,Adult,55 to 64,1
+2021,Assault,F,Adult,65+,4
+2021,Assault,F,Unknown,Unknown,4
+2021,Assault,M,Adult,18 to 24,29
+2021,Assault,M,Adult,25 to 34,42
+2021,Assault,M,Adult,35 to 44,12
+2021,Assault,M,Adult,45 to 54,15
+2021,Assault,M,Adult,55 to 64,3
+2021,Assault,M,Adult,65+,4
+2021,Assault,M,Unknown,Unknown,35
+2021,Assault,U,Unknown,Unknown,1
+2021,Assault,F,Adult,18 to 24,1297
+2021,Assault,F,Adult,25 to 34,2365
+2021,Assault,F,Adult,35 to 44,1581
+2021,Assault,F,Adult,45 to 54,1000
+2021,Assault,F,Adult,55 to 64,590
+2021,Assault,F,Adult,65+,435
+2021,Assault,F,Child,<12,247
+2021,Assault,F,Unknown,Unknown,77
+2021,Assault,F,Youth,12 to 17,388
+2021,Assault,M,Adult,18 to 24,1080
+2021,Assault,M,Adult,25 to 34,2086
+2021,Assault,M,Adult,35 to 44,1561
+2022,Other,M,Youth,12 to 17,148
+2022,Other,U,Adult,25 to 34,1
+2022,Other,U,Adult,35 to 44,2
+2022,Other,U,Adult,45 to 54,2
+2022,Other,U,Adult,55 to 64,1
+2022,Other,U,Unknown,Unknown,5
+2022,Robbery,F,Adult,18 to 24,147
+2022,Robbery,F,Adult,25 to 34,203
+2022,Robbery,F,Adult,35 to 44,101
+2022,Robbery,F,Adult,45 to 54,101
+2022,Robbery,F,Adult,55 to 64,85
+2022,Robbery,F,Adult,65+,60
+2022,Robbery,F,Child,<12,6
+2022,Robbery,F,Unknown,Unknown,13
+2022,Robbery,F,Youth,12 to 17,58
+2022,Robbery,M,Adult,18 to 24,348
+2022,Robbery,M,Adult,25 to 34,384
+2022,Robbery,M,Adult,35 to 44,228
+2022,Robbery,M,Adult,45 to 54,150
+2022,Robbery,M,Adult,55 to 64,160
+2022,Robbery,M,Adult,65+,92
+2022,Robbery,M,Child,<12,13
+2022,Robbery,M,Unknown,Unknown,21
+2022,Robbery,M,Youth,12 to 17,256
+2022,Robbery,U,Adult,18 to 24,1
+2022,Robbery,U,Adult,25 to 34,1
+2022,Sexual Violation,F,Adult,18 to 24,533
+2022,Sexual Violation,F,Adult,25 to 34,530
+2022,Sexual Violation,F,Adult,35 to 44,287
+2022,Sexual Violation,F,Adult,45 to 54,155
+2022,Sexual Violation,F,Adult,55 to 64,75
+2022,Sexual Violation,F,Adult,65+,62
+2022,Sexual Violation,F,Child,<12,249
+2022,Sexual Violation,F,Unknown,Unknown,22
+2022,Sexual Violation,F,Youth,12 to 17,571
+2022,Sexual Violation,M,Adult,18 to 24,57
+2022,Sexual Violation,M,Adult,25 to 34,61
+2022,Sexual Violation,M,Adult,35 to 44,40
+2022,Sexual Violation,M,Adult,45 to 54,19
+2022,Sexual Violation,M,Adult,55 to 64,10
+2022,Sexual Violation,M,Adult,65+,6
+2022,Sexual Violation,M,Child,<12,84
+2022,Sexual Violation,M,Unknown,Unknown,6
+2022,Sexual Violation,M,Youth,12 to 17,93
+2022,Sexual Violation,U,Adult,18 to 24,1
+2022,Sexual Violation,U,Adult,25 to 34,3
+2022,Sexual Violation,U,Adult,35 to 44,1
+2022,Sexual Violation,U,Child,<12,2
+2022,Sexual Violation,U,Unknown,Unknown,4
+2022,Sexual Violation,U,Youth,12 to 17,2
