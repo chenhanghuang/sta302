@@ -2,7 +2,7 @@
 title: "Investigating the Characteristic of Victims of Crimes in Toronto by Police Annual Statistical Report  from 2014 to 2022"
 author: 
   Chenhang Huang
-thanks: "Code and data are available at: LINK."
+thanks: "Code and data are available at: https://github.com/chenhanghuang/sta302/tree/main/starter_folder-main."
 date: today
 date-format: long
 abstract: "The issue of public safety in Toronto is a crucial indicator of residents satisfaction, with the distribution of victims directly reflecting the city safety concerns. This study examines the trend of Victims of Crimes using summary data provided by the Toronto Police from 2014 to 2022. The results reveal a significant upward trend in the number of victims, with notable changes in the distribution of victims around the occurrence of COVID-19. While the government's policies during the 2020 COVID-19 pandemic reduced the number of victims, the post-pandemic rebound in the number of victims necessitates government attention."
