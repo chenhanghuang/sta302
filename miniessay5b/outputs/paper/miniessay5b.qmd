@@ -2,7 +2,7 @@
 title: "Understanding and Tackling Declining Response Rates: Challenges and Solutions"
 author: 
   Chenhang Huang
-thanks: "Code and data are available at: https://github.com/chenhanghuang/sta302/tree/main/starter_folder-main."
+thanks: "Code and data are available at: https://github.com/chenhanghuang/sta302/blob/main/miniessay5b."
 date: today
 date-format: long
 abstract: "Surveys serve as crucial instruments for gathering data across diverse fields, providing valuable insights into opinions, behaviors, and preferences. Nevertheless, the declining response rates observed in face-to-face, telephone, and web surveys present significant challenges for researchers. This paper conducts a literature review to explore the factors influencing response rate trends across these survey methods. Additionally, it discusses strategies such as enhancing trust, leveraging AI technology, and providing training for surveyors to improve participation and response rates. "
