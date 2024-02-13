@@ -3,7 +3,7 @@ title: "Investigating the P-Hacking and Publication Bias in Causal Analysis from
 subtitle: "How the P-Hacking Varies by Method, Year, and Journal Rank"
 author: 
   - Chenhang Huang
-thanks: "Code and data are available at: https://github.com/chenhanghuang/sta302/tree/main/as2_starter_folder."
+thanks: "Code and data are available at: https://github.com/chenhanghuang/sta302/tree/main/as2_starter_folder. Replication aspects are available at: https://www.socialsciencereproduction.org/reproductions/1635/select-paper"
 date: today
 date-format: long
 abstract: "This study delves into the integrity of empirical economic research by investigating the prevalence of p-hacking, a practice where researchers manipulate statistical tests to achieve desired results. Analyzing data from 25 economic journals between 2015 and 2018, we scrutinized the distribution of statistical test results across various methods and journal rankings. Our findings reveal a declining trend in p-hacking over time, shedding light on potential improvements in research practices. This study underscores the importance of transparency and rigor in empirical research, ensuring the credibility and reliability of scientific findings in economics and beyond."
