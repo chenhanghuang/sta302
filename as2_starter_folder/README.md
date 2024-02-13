@@ -18,7 +18,7 @@ Statement on LLM usage: Aspects of the code were written with the help of the au
 ## File Structure
 The repo is structured as:
 
-data/raw_data contains the data sources used in analysis including the raw data.
+data/raw_data contains the data sources used in analysis including the raw data， there is a raw_data named MM Data.dta which is too big to upload. 
 
 data/analysis_data contains the cleaned dataset that was constructed.
 
